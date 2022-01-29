@@ -1,3 +1,3 @@
-module github.com/mathisve/go-ec2-ifup-ifdown
+module github.com/mathisve/ec2ifupifdown
 
 go 1.17
